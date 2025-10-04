@@ -1,7 +1,7 @@
 
 function Hitesh (){
     return (
-        <h1>Hello Dunia from Vite + React !!!</h1>
+        <h1>Hello Dunia </h1>
     )
 }
 
